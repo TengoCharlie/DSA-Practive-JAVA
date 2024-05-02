@@ -1,0 +1,13 @@
+{
+  "name": "Java 8 DSA Practice",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "vscjava.vscode-java-pack"
+  ],
+  "postCreateCommand": "echo 'Ready to code!'"
+}
